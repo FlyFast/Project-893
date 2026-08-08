@@ -1,3 +1,7 @@
+# API keys and other secrets
+*.KEY
+*.key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
